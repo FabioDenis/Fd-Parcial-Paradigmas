@@ -1,0 +1,64 @@
+body {
+  background-color: #dadada;
+  width: 100%;
+}
+/*Estilos Header*/
+
+.fd-header {
+  display: flex;
+  width: 100%;
+}
+.fd-divtitulo {
+  margin-left: 5%;
+}
+
+.fd-ulheader {
+  display: flex;
+  width: 100%;
+  list-style: none;
+}
+/*Estilos Nav*/
+.fd-divnav {
+  margin-left: 5%;
+}
+.fd-hipervinculoheader {
+  margin-left: 5%;
+}
+
+.fd-tituloh1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2em;
+}
+.fd-linav {
+  margin-left: 5%;
+}
+
+/*Main*/
+.fd-h1eslogan {
+}
+.fd-divmain {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.fd-contenedor-main {
+  display: flex;
+}
+.fd-div-boton {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+/*Seccion Productos*/
+
+.fd-imagen {
+  width: 30%;
+  margin-left: 35%;
+}
+.fd-nombreremera {
+  margin-left: 45%;
+}
+.fd-precioremera {
+  font-size: 1em;
+  margin-left: 50%;
+}
